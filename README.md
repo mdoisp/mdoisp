@@ -13,7 +13,7 @@
 ## 💫 About Me
 - 📚 Currently pursuing **Multiplatform Software Development** degree.  
 - 🚀 Aspiring **Software Developer** and **Data Professional**.  
-- 📊 Strong interest in **data analysis**, **financial data**, and **AI applications**.  
+- 📊 Strong interest in **data engineering**, **financial data**, and **AI applications**.  
 - 🌱 Always exploring new technologies and best coding practices.
 
 ---
