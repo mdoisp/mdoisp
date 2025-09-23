@@ -10,7 +10,7 @@
 
 ---
 
-## 💫 About Me
+## ✌️ About Me
 - 📚 Currently pursuing **Multiplatform Software Development** degree.  
 - 🚀 Aspiring **Software Engineer** / **Data Engineer**.  
 - 📊 Strong interest in **software engineering**, **financial data**, and **AI applications**.  
