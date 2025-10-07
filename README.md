@@ -5,7 +5,7 @@
 
 <p align="center">
   🎓 Studying <strong>Multiplatform Software Development</strong> at <a href="https://www.fatec.sp.gov.br/">Fatec</a> <br/>
-  💡 Passionate about technology, development, finances and data
+  💡 Passionate about cloud, development, finances and data
 </p>
 
 ---
