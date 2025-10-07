@@ -12,7 +12,7 @@
 
 ## ✌️ About Me
 - 📚 Currently pursuing **Multiplatform Software Development** degree.  
-- 🚀 Aspiring **FinOps Engineer**.  
+- 🚀 Aspiring **Software Engineer -> FinOps Engineer**.  
 - 📊 Strong interest in **FinOps/DevOps, Data Engineering and AI aplications**.  
 - 🌱 Always exploring new technologies and best coding practices.
 
