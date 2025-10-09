@@ -1,11 +1,11 @@
 <!-- Typing effect title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Matheus;Software+Engineer+in+the+Making;Future+Cloud+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Matheus;Software+Engineer+in+the+Making;Future+FinOps Professional" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   🎓 Studying <strong>Multiplatform Software Development</strong> at <a href="https://www.fatec.sp.gov.br/">Fatec</a> <br/>
-  💡 Passionate about cloud, development, finances and data
+  💡 Passionate about Cloud, Finances and Development
 </p>
 
 ---
@@ -66,5 +66,5 @@
 ---
 
 <p align="center">
-  <em>"In finance, data is not just numbers — it’s the story that drives smart decisions."</em>
+  <em>"Take a break. Take a coffee ☕. Then, keep walking. ❤️"</em>
 </p>
