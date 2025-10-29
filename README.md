@@ -1,6 +1,6 @@
 <!-- Typing effect title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Matheus;Software+Engineer+in+the+Making;Future+FinOps+Professional" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Matheus;Software+Engineer+in+the+Making;Future+DevOps+Professional" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -12,8 +12,8 @@
 
 ## ✌️ About Me
 - 📚 Currently pursuing **Multiplatform Software Development** degree.  
-- 🚀 Aspiring **Software Engineer -> FinOps Engineer**.  
-- 📊 Strong interest in **FinOps/DevOps, Data Engineering and AI aplications**.  
+- 🚀 Aspiring **Software Engineer -> DevOps Engineer**.  
+- 📊 Strong interest in **DevOps/FinOps, Cloud Services and AI aplications**.  
 - 🌱 Always exploring new technologies and best coding practices.
 
 ---
