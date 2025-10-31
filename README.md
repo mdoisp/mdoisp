@@ -12,7 +12,7 @@
 
 ## ✌️ About Me
 - 📚 Currently pursuing **Multiplatform Software Development** degree.  
-- 🚀 Aspiring **Software Engineer -> DevOps Engineer**.  
+- 🚀 Aspiring **Backend Engineer -> DevOps Engineer**.  
 - 📊 Strong interest in **DevOps/FinOps, Cloud Services and AI aplications**.  
 - 🌱 Always exploring new technologies and best coding practices.
 
