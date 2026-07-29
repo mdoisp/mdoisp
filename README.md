@@ -4,14 +4,14 @@
 </h1>
 
 <p align="center">
-  🎓 Studying <strong>Multiplatform Software Development</strong> at <a href="https://www.fatec.sp.gov.br/">Fatec</a> <br/>
+  🎓 Graduated in <strong>Multiplatform Software Development</strong> at <a href="https://www.fatec.sp.gov.br/">Fatec</a> <br/>
   💡 Passionate about Cloud, Finances and Development
 </p>
 
 ---
 
 ## ✌️ About Me
-- 📚 Currently pursuing **Multiplatform Software Development** degree.  
+- 📚 Learning **Azure & .NET ecosystem**.  
 - 🚀 Aspiring **Backend Engineer -> DevOps Engineer**.  
 - 📊 Strong interest in **DevOps/FinOps, Cloud Services and AI aplications**.  
 - 🌱 Always exploring new technologies and best coding practices.
