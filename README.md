@@ -1,6 +1,6 @@
 <!-- Typing effect title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Matheus;Software+Engineer+in+the+Making;Future+DevOps+Professional" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Matheus;Software+Engineer+in+the+Making;Future+Cloud+Professional" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## ✌️ About Me
 - Learning **Azure & .NET ecosystem**.  
-- Aspiring **Backend Engineer -> DevOps Engineer**.  
+- Aspiring **Backend Engineer -> Cloud Professional**.  
 - Strong interest in **DevOps/FinOps, Cloud Services and AI applications**.  
 - Always exploring new technologies and best coding practices.
 
